@@ -1,0 +1,3 @@
+對照 Simulation v3(branch_new) 與 Simulation v3(完整圖)
+
+從前面一小塊一小塊復原Simulation v3的設置，可以複製Simulation v3的BLOCK，參數會保留，執行看看，確保無ERROR再往下一塊做。
