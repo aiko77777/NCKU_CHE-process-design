@@ -1,0 +1,3 @@
+1.reboiler duty 設30000
+2.DME為dimethyl-ether 別填錯，distillate to feed ration(D:F)為0.3
+3.照做即可
